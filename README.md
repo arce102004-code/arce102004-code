@@ -1,8 +1,10 @@
 # Hi, I'm Valentina 👋
 
-Mechatronics engineer working at the intersection of **AI, aerospace, and embedded systems** — engineering intelligence into the physical world.
+Mechatronics engineer working across **explainable AI**, **aeronautical** and **embedded systems**.
 
 I build systems that predict, adapt, and explain their own decisions: from turbofan reliability models to embedded air-quality monitors. My work spans physics-informed AI, interpretability, and applied control, always aimed at technology trustworthy enough for critical environments.
+ 
+I work across two areas in particular: **explainable AI and AI safety**, where I focus on making model decisions interpretable, trustworthy, and monitorable (SHAP, LIME, PDP, reasoning monitoring), and **aeronautical/aviation systems**, where I'm drawn to the certification standards and safety culture that make AI adoption in flight-critical environments so demanding. I am also interested in the overlap between the two: building AI that isn't just accurate, but explainable and safe enough to be trusted in aviation and other high-stakes systems.
 
 🔗 **Portfolio:** [arce102004-code.github.io/valentina-arce](https://arce102004-code.github.io/valentina-arce/)
 💼 **LinkedIn:** [linkedin.com/in/valentina-arce-españa](https://www.linkedin.com/in/valentina-arce-españa-a0a741350)
@@ -17,7 +19,7 @@ I build systems that predict, adapt, and explain their own decisions: from turbo
 
 ### What I work with
 
-`Python` · `PyTorch/TensorFlow` · `Control Systems` · `Embedded Systems` · `Raspberry Pi` · `Explainable AI`
+`Python` · `PyTorch/TensorFlow` · `Control Systems` · `Embedded Systems` · `Explainable AI`
 
 ---
 
