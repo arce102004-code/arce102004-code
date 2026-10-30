@@ -1,6 +1,6 @@
 # Hi, I'm Valentina 👋
 
-Mechatronics engineer working across **explainable AI**, **aeronautical** and **embedded systems**.
+Mechatronics engineer working across **explainable AI**, **interpretability** and **applied ML**.
 
 I build systems that predict, adapt, and explain their own decisions: from turbofan reliability models to embedded air-quality monitors. My work spans physics-informed AI, interpretability, and applied control, always aimed at technology trustworthy enough for critical environments.
  
